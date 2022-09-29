@@ -1,4 +1,5 @@
 A theory about music
+
 My intentions are to try to bring poetry to music without sacrificing the modern artistic touch, and in my opinion if we manage to save poetry we will safe philosophy as well and by no means I’m trying to give hints that philosophy might be on the ‘death bed’ but it’s living under a natural crisis.
  My suggestions:
 -Words are important:
