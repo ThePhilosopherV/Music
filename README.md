@@ -3,8 +3,10 @@ My intentions are to try to bring poetry to music without sacrificing the modern
  My suggestions:
 -Words are important:
 Every word is significant and this genre will have an emphasis on every word.
+
 -Space between words
 The ‘nothingness’/silence between every word is as important as the words themselves so they should be interesting and magical/meaningful as well.
+
 -Every time it’s a new/different song
 Have you ever felt in love in a song that you don’t want it to stop? I came up with a solution and it’s to make the background music different with every time the song is being run/(heard ?), this solution will need a programmatical  implementation.
 - When words are being spoken silence should reign 
