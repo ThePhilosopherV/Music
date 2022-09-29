@@ -31,7 +31,7 @@ Ideas being expressed artistically are more capable of reaching the heart.
 
 -Inside every genius there is a musician
 
--The deeper you get in life you closest you get to the song of the universe.
+-The deeper you get in life the closest you get to the song of the universe.
 
 -Nature expresses itself using sound.
 
