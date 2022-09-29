@@ -12,7 +12,7 @@ The ‘nothingness’/silence between every word is as important as the words th
 
 Have you ever felt in love in a song that you don’t want it to stop? I came up with a solution and it’s to make the background music different with every time the song is being run/(heard ?), this solution will need a programmatical  implementation.
 
-- When words are being spoken silence should reign 
+-When words are being spoken silence should reign 
 
 I think for reasons related to giving words more spotlight when words are being spoken the background music should be ‘non-existent’.
 
